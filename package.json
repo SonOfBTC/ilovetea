@@ -13,6 +13,9 @@
   "keywords": [
     "tea"
   ],
+  "publishConfig": {
+  "@SonOfBTC": "https://npm.pkg.github.com"
+  },
   "author": "@SonOfBTC",
   "license": "MIT",
   "bugs": {
